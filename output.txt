@@ -1,0 +1,37 @@
+Script started on Sat Nov 13 19:03:05 2021
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004hmkdir folder-1[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004hmkdir folder-2[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004htouch file1.txt[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004htouch file2.txt[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004htouch file3.txt[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004hmv file1.txt folder-1[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004hmv file2.txt folder-2[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004hcd folder-1[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hls[?2004l
+file1.txt
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hpwd[?2004l
+/Users/maya/desktop/command-line-and-git-assessment/folder-1
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hcd .. command-line-and-git-assessment[?2004l
+cd: string not in pwd: ..
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hcd.. command-line-and-git-assessment[?2004l
+zsh: command not found: cd..
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hcd command-line-and-git-assessment                               desktop[?2004l
+cd: no such file or directory: desktop
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hcd .. desktop[?2004l
+cd: string not in pwd: ..
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hpwd[?2004l
+/Users/maya/desktop/command-line-and-git-assessment/folder-1
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hcd ..pwd  cd .. desktopdesktop   .. command-line-and-git-assessment .. command-line-and-git-assessment[?2004l
+cd: string not in pwd: ..
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessment/folder-1maya@Mayas-MacBook-Air folder-1 % [?2004hcd -[?2004l
+~/desktop/command-line-and-git-assessment
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004hrm file3.txt[?2004l
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004hls[?2004l
+README.md	folder-1	folder-2	output.txt
+%                                                                               ]7;file://Mayas-MacBook-Air.local/Users/maya/desktop/command-line-and-git-assessmentmaya@Mayas-MacBook-Air command-line-and-git-assessment % [?2004hexit[?2004l
+Saving session...
+...copying shared history...
+...saving history...truncating history files...
+...completed.
+
+Script done on Sat Nov 13 19:13:32 2021
